@@ -1,10 +1,11 @@
 # Text Analysis Service (Python)
 
-## Description
 A Python-based service for performing advanced text analysis, including:
 - Counting words, characters, and sentences.
 - Identifying the most frequent words.
 - Supporting customizable options like excluding stopwords.
+
+---
 
 ## Features
 - **Word Count**: Count the total words in the text.

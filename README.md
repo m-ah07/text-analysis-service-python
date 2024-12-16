@@ -15,7 +15,7 @@ A Python-based service for performing advanced text analysis, including:
 
 ## Installation
 Clone the repository:
-```bash
+```
 git clone https://github.com/marwan-ahmed-23/text-analysis-service-python.git
 ```
 
@@ -23,7 +23,7 @@ git clone https://github.com/marwan-ahmed-23/text-analysis-service-python.git
 ## Usage
 Here's how to use the service:
 
-```bash
+```
 from src.text_analyzer import TextAnalyzer
 
 text = "This is an example text for analysis."

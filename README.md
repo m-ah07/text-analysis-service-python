@@ -16,7 +16,7 @@ A Python-based service for performing advanced text analysis, including:
 ## 🔧 Installation
 Clone the repository:
 ```bash
-git clone https://github.com/marwan-ahmed-23/text-analysis-service-python.git
+git clone https://github.com/m-ah07/text-analysis-service-python.git
 ```
 
 
